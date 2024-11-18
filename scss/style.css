@@ -1,0 +1,11 @@
+section {
+  max-width: 1400px;
+}
+section .section__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+section .section__content input {
+  width: 1028px;
+}/*# sourceMappingURL=style.css.map */
